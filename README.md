@@ -1,4 +1,4 @@
-## First pack of five JavaScript challenges developed during Bootcamp Orange Tech+ created by @digitalinnovationone and Inter Bank
+## First pack of JavaScript challenges developed during Bootcamp Orange Tech+ created by @digitalinnovationone and Inter Bank
 
 <strong>❯❯:zap: Challenges:</strong>
 
