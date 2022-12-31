@@ -8,9 +8,3 @@
 - <a href="https://github.com/vitorg5x/js-challenges-01/tree/main/Recursive%20Call">Recursive Call</a>&nbsp;
 - <a href="https://github.com/vitorg5x/js-challenges-01/tree/main/Sequential%20Search">Sequential Search</a>&nbsp;
 
-<strong>❯❯:hammer_and_wrench: Languages & Tools:</strong>
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-</div>
-
