@@ -2,11 +2,11 @@
 
 <strong>❯❯:zap: Challenges:</strong>
 
-- <a href="https://github.com/Bootcamp-Orange-Tech/dio-desafio-git-github">Adding Multiples</a>&nbsp;
-- <a href="https://github.com/Bootcamp-Orange-Tech/dio-clone-site">Equal Numbers</a>&nbsp;
-- <a href="https://github.com/Bootcamp-Orange-Tech/trilha-react-desafio01-calculadora">FizzBuzz</a>&nbsp;
-- <a href="https://github.com/Bootcamp-Orange-Tech/trilha-react-desafio-2">Recursive Call</a>&nbsp;
-- <a href="https://github.com/Bootcamp-Orange-Tech/trilha-react-desafio-3">Sequential Search</a>&nbsp;
+- <a href="https://github.com/vitorg5x/js-challenges-01/tree/main/Adding%20Multiples">Adding Multiples</a>&nbsp;
+- <a href="https://github.com/vitorg5x/js-challenges-01/tree/main/Equal%20Numbers">Equal Numbers</a>&nbsp;
+- <a href="https://github.com/vitorg5x/js-challenges-01/tree/main/FizzBuzz">FizzBuzz</a>&nbsp;
+- <a href="https://github.com/vitorg5x/js-challenges-01/tree/main/Recursive%20Call">Recursive Call</a>&nbsp;
+- <a href="https://github.com/vitorg5x/js-challenges-01/tree/main/Sequential%20Search">Sequential Search</a>&nbsp;
 
 <strong>❯❯:hammer_and_wrench: Languages & Tools:</strong>
 
