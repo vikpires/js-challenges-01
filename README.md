@@ -2,9 +2,9 @@
 
 <strong>❯❯:zap: Challenges:</strong>
 
-- <a href="https://github.com/vitorg5x/js-challenges-01/tree/main/Adding%20Multiples">Adding Multiples</a>&nbsp;
-- <a href="https://github.com/vitorg5x/js-challenges-01/tree/main/Equal%20Numbers">Equal Numbers</a>&nbsp;
-- <a href="https://github.com/vitorg5x/js-challenges-01/tree/main/FizzBuzz">FizzBuzz</a>&nbsp;
-- <a href="https://github.com/vitorg5x/js-challenges-01/tree/main/Recursive%20Call">Recursive Call</a>&nbsp;
-- <a href="https://github.com/vitorg5x/js-challenges-01/tree/main/Sequential%20Search">Sequential Search</a>&nbsp;
+- [Adding Multiples](https://github.com/vitorg5x/js-challenges-01/tree/main/Adding%20Multiples);
+- [Equal Numbers](https://github.com/vitorg5x/js-challenges-01/tree/main/Equal%20Numbers);
+- [FizzBuzz](https://github.com/vitorg5x/js-challenges-01/tree/main/FizzBuzz);
+- [Recursive Call](https://github.com/vitorg5x/js-challenges-01/tree/main/Recursive%20Call);
+- [Sequential Search](https://github.com/vitorg5x/js-challenges-01/tree/main/Sequential%20Search);
 
