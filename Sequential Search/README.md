@@ -8,13 +8,6 @@
 - If number A is present, returns the value and position in array: "The number A was found in position X";
 - If number A isn't present, returns "Number A not found!";
 
-<strong>❯❯:hammer_and_wrench: Languages & Tools:</strong>
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="30" height="30"/>&nbsp;
-</div>
-
-
 
 
 
